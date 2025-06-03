@@ -1,2 +1,3 @@
 body { font-family: system-ui, sans-serif; margin: 2rem; }
 # keep defaults in sync with the manifest
+# guard against empty input
