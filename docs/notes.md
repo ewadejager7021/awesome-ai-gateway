@@ -42,3 +42,4 @@ Notes and usage details for awesome-ai-gateway.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
