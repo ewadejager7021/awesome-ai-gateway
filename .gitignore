@@ -9,3 +9,4 @@ coverage/
 *.tmp
 .cache/
 tmp/
+Thumbs.db
